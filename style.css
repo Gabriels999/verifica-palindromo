@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15%;
+  gap: 3%;
+  font-family: 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif;
+}
+#res {
+  margin-top: 40%;
+  font-size: 20px;
+}
